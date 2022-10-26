@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+.box-01 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    list-style-type: none;
+    border-radius: 20px;
+
+}
+
+.box-02 {
+    list-style: none;
+}
